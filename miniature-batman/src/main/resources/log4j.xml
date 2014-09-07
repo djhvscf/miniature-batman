@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.cenfotec.cenfoteca">
+	<logger name="com.prueba.miniature.batman">
 		<level value="info" />
 	</logger>
 	
